@@ -1,6 +1,6 @@
 Just an ***artist***
 <!-- ![my_fav_drawing](assets/my_fav_drawing.jpeg) -->
-
+<html><body>
 <style>
     img {
         width:30px;
@@ -9,3 +9,5 @@ Just an ***artist***
     }
 </style>
 <img src="assets/my_fav_drawing.jpeg"/>
+</body>
+</html>
