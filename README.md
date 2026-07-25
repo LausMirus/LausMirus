@@ -10,4 +10,7 @@
 
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=tokyonight" align="center"/>
 
+<img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=tokyonight" />
+
 </p>
+
