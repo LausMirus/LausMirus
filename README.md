@@ -2,4 +2,5 @@
 <!-- ![my_fav_drawing](assets/my_fav_drawing.jpeg) -->
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LausMirus)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LausMirus&show_icons=true&theme=tokyonight)
