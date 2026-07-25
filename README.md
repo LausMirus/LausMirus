@@ -6,6 +6,8 @@
 
 <p align="center">
   
+<img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=tokyonight" align="center"/>
+  
 ![GitHub Stats](https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=tokyonight)
 
 
