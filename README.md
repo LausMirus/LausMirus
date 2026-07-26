@@ -16,9 +16,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&hide_border=true)
+
 </br>
 
 </p>
 ---
 
-![GitHub Stats](https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000)
