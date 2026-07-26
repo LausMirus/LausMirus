@@ -10,13 +10,13 @@
 
 <!-- =================================[stats]================================= -->
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 
-<img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=tokyonight" align="center"/>
+<img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark" align="center"/>
 
-<img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=tokyonight" align="center" />
+<img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark" align="center" />
 </br>
 
 </p>
