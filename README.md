@@ -25,3 +25,9 @@
 </p>
 ---
 
+
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000" />
+</p>
