@@ -15,15 +15,11 @@
 
 
 <p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LausMirus&theme=high-contrast_border=true)
-
+  
 ![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&hide_border=true)
-
 </br>
-
 </p>
----
+___
 
 <p align="center">
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark&bg_color=000000&border_color=FFFFFF&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="48%"/>
