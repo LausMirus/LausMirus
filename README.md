@@ -19,7 +19,5 @@
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=tokyonight" align="center" />
 </br>
 
-![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=tokyonight)
-
 </p>
 
