@@ -20,4 +20,5 @@
 </br>
 
 </p>
-
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Linux+Enthusiast;Cybersecurity+Learner;ESP32+Developer;Photographer)](https://git.io/typing-svg)
