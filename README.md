@@ -2,6 +2,8 @@
 <!-- ![my_fav_drawing](assets/my_fav_drawing.jpeg) -->
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+
 <!-- =================================[stats]================================= -->
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
