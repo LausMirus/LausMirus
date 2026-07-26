@@ -12,7 +12,7 @@
 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Stats](https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000)
+
 
 <p align="center">
 
@@ -28,9 +28,10 @@
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000" />
+  
+  ![GitHub Stats](https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000)
+  
+<img src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" />
+
 </p>
 
-
-<img src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" />
