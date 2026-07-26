@@ -30,4 +30,4 @@ ___
 
 ___
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
+![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false)
