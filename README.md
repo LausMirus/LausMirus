@@ -29,13 +29,13 @@
 
 <p align="center”>
   
- <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark&bg_color=000000&border_color=FFFFFF&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="48%"/>
+ 
   
 <img src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" width="48%"/>
 
 </p>
 
-<!-- <p align="center">
-
+<p align="center">
+<img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark&bg_color=000000&border_color=FFFFFF&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="48%"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" />
-</p> -->
+</p>
