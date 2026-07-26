@@ -16,7 +16,7 @@
 
 <p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LausMirus&theme=high-contrast_border=true)
 
 ![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&hide_border=true)
 
