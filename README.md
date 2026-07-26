@@ -10,7 +10,7 @@
 
 <!-- =================================[stats]================================= -->
 
-![Contribution Graph](https://github-readme-stats-pi-liard-27.vercel.app/api/activity-graph?username=LausMirus)
+[![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Stats](https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000)
 
