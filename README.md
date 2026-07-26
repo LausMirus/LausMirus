@@ -4,9 +4,12 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
----
-[![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,git,docker,arduino)](https://skillicons.dev)
+___
 
+<p align="center">
+  <img width="49%" src="stats-card-url" align="left" />
+  
+</p>
 ___
 <!-- =================================[stats]================================= -->
 
