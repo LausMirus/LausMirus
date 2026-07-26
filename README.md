@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=GNU/linux,python,c,bash,git,docker,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,git,docker,arduino)](https://skillicons.dev)
 
 
 <!-- =================================[stats]================================= -->
