@@ -27,11 +27,10 @@
 
 
 
-<p>
+<p align="center”>
   
-  <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" align="left" width="49%"/>
-  
-<img src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" align="right" width="49%"/>
+  <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=transparent&hide=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&hide_border=true&border_radius=0&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=FFFFFF" width="49%"/>
 
 </p>
 
