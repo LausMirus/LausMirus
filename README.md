@@ -2,15 +2,13 @@
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
 
 <p align="left">
-  <img align="left" width="220" src="./assets/knight.png">
+  <img align="left" width="20%" src="./assets/knight.png">
 
-### About Me
+  random text!!!!!!!!!!!!!!!!!!!!!
 
-random text!!!!!!!!!!!!!!!!!!!!!
+  More text...
 
-More text...
-
-Even more text...
+  Even more text...
 </p>
 ___
 
