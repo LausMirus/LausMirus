@@ -1,21 +1,17 @@
 <!--✨ Just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** ✨.
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
 
-<table border="0">
-<tr>
-<td width="20%" valign="top">
+<p align="left">
+  <img align="left" width="220" src="./assets/knight.png">
 
-<img src="./assets/knight.png" width="220">
-
-</td>
-
-<td width="65%" valign="top">
+### About Me
 
 random text!!!!!!!!!!!!!!!!!!!!!
 
-</td>
-</tr>
-</table>
+More text...
+
+Even more text...
+</p>
 ___
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
