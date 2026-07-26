@@ -2,7 +2,7 @@
 <!-- ![my_fav_drawing](assets/my_fav_drawing.jpeg) -->
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
 <!-- =================================[stats]================================= -->
   
