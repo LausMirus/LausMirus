@@ -9,9 +9,7 @@
 
 
 <!-- =================================[stats]================================= -->
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Contribution Graph](https://github-readme-stats-pi-liard-27.vercel.app/api/activity-graph?username=LausMirus)
 <p align="center">
 
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api?username=LausMirus&show_icons=true&theme=github_dark" align="center"/>
