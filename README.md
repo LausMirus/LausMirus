@@ -2,7 +2,7 @@
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
 
 <p align="left">
-  <img align="left" width="20%" src="./assets/knight.png">
+  <img align="left" width="10%" src="./assets/knight.png">
 
   random text!!!!!!!!!!!!!!!!!!!!!
 
