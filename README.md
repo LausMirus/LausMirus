@@ -5,12 +5,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
 ___
-
-<p align="center">
-  <img width="49%" src="stats-card-url" align="left" />
-  
-</p>
-___
 <!-- =================================[stats]================================= -->
 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
