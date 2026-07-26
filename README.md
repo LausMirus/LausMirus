@@ -4,6 +4,10 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
+---
+[![My Skills](https://skillicons.dev/icons?i=GNU/linux,python,c,bash,git,docker,arduino)](https://skillicons.dev)
+
+
 <!-- =================================[stats]================================= -->
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
