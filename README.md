@@ -1,6 +1,22 @@
-✨ Just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** ✨.
-<!-- ![my_fav_drawing](assets/my_fav_drawing.jpeg) -->
-<img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" />
+<!--✨ Just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** ✨.
+<img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
+
+<table>
+<tr>
+<td width="20%" valign="top">
+
+<img src="./assets/knight.png" width="220">
+
+</td>
+
+<td width="65%" valign="top">
+
+random text!!!!!!!!!!!!!!!!!!!!!
+
+</td>
+</tr>
+</table>
+___
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
 
