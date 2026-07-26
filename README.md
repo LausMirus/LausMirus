@@ -7,18 +7,11 @@
 ---
 [![My Skills](https://skillicons.dev/icons?i=linux,python,c,bash,git,docker,arduino)](https://skillicons.dev)
 
-
+___
 <!-- =================================[stats]================================= -->
 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<p align="center">
-  
-![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&hide_border=true)
-</br>
-</p>
 ___
 
 <p align="center">
@@ -26,3 +19,14 @@ ___
   
 <img width="51%" src="https://streak-stats.demolab.com?user=LausMirus&theme=github-dark&background=000000&hide_border=false&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
+
+___
+
+<p align="center">
+  
+![Top Languages](https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&hide_border=true)
+</br>
+</p>
+
+___
+
