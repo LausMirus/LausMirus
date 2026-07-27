@@ -4,11 +4,8 @@
 <p align="left">
   <img align="left" width="10%" src="./assets/knight.png">
 
-  random text!!!!!!!!!!!!!!!!!!!!!
-
-  More text...
-
-  Even more text...
+  Just a hobbyist exploring Linux and networking, still a beginner in coding, with every experiment revealing something new.
+  
 </p>
 
 ___
