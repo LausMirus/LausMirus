@@ -10,7 +10,7 @@
 
 ___
 
-[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)]()
+[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)
 
 ___
 <!-- =================================[stats]================================= -->
