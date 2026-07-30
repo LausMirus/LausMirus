@@ -2,6 +2,11 @@
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
+</p>
+
+
+<p align="left">
   <img align="left" width="10%" src="./assets/knight.png">
 
   Just a hobbyist exploring Linux and networking, still a beginner in coding, with every experiment revealing something new.
@@ -11,11 +16,6 @@
 ___
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
-</p>
 
 ___
 <!-- =================================[stats]================================= -->
