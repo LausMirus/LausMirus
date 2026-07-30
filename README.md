@@ -34,9 +34,7 @@ ___
   
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false" align="center"/>
 
-<p align="center">
-  <i>"Your quote goes here."</i>
-</p>
+![Quote](https://img.shields.io/badge/Quote-Never%20Stop%20Building-black?style=for-the-badge&logo=github&logoColor=white)
   
 </p>
 
