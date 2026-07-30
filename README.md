@@ -38,7 +38,7 @@ ___
 
 ___
 
-<h3>Dev's Quote</h3>
+<h3 align="center">Dev's Quote</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Chess%20teaches%20you%20how%20one%20small%20mistake%20can%20ruin%20everything.-ACBAC4?style=flat-square" /><br>
