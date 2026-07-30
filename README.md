@@ -1,7 +1,7 @@
 <!--✨ Just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** ✨.
 <img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> -->
 
-<p align="center">
+<p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
   
@@ -9,13 +9,16 @@
 
   Just a hobbyist exploring Linux and networking, still a beginner in coding, with every experiment revealing something new.
   
-</p>
+</p >
 
 ___
 
+<p align ="left">
+  
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)
 
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)]()
+</p>
 
 ___
 <!-- =================================[stats]================================= -->
@@ -43,9 +46,9 @@ ___
 <h3 align="center">Dev's Quote</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Chess%20teaches%20you%20how%20one%20small%20mistake%20can%20ruin%20everything.-BFC9D1?style=flat-square" /><br>
+  <img src="https://img.shields.io/badge/Chess%20teaches%20you%20how%20one%20small%20mistake%20can%20ruin%20everything.-222831?style=flat-square" /><br>
   
-  <img src="https://img.shields.io/badge/%20by%20Laus%20Mirus.%20-BFC9D1?style=flat-square" />
+  <img src="https://img.shields.io/badge/%20by%20Laus%20Mirus.%20-222831?style=flat-square" />
 </p>
 
 ___
