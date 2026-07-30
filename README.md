@@ -41,9 +41,9 @@ ___
 <h3 align="center">Dev's Quote</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Chess%20teaches%20you%20how%20one%20small%20mistake%20can%20ruin%20everything.-093C5D?style=flat-square" /><br>
+  <img src="https://img.shields.io/badge/Chess%20teaches%20you%20how%20one%20small%20mistake%20can%20ruin%20everything.-FF0000?style=flat-square" /><br>
   
-  <img src="https://img.shields.io/badge/%20’by Laus%20Mirus.%20-ACBAC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/%20by Laus%20Mirus.%20-FF0000?style=flat-square" />
 </p>
 
 ___
