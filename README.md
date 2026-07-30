@@ -12,6 +12,11 @@ ___
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
+</p>
+
 ___
 <!-- =================================[stats]================================= -->
 
