@@ -15,6 +15,8 @@ ___
 
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)
 
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)]()
+
 ___
 <!-- =================================[stats]================================= -->
 
