@@ -19,6 +19,13 @@ ___
 </p>
 
 ___
+
+<h3 align="center">Dev's Quote</h3>
+
+<p align="center">
+  <img src="./quote.svg" />
+</p>
+___
 <!-- =================================[stats]================================= -->
 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -38,13 +45,4 @@ ___
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false" align="center"/>
 
 </p>
-
-___
-
-<h3 align="center">Dev's Quote</h3>
-
-<p align="center">
-  <img src="./quote.svg" />
-</p>
-
 ___
