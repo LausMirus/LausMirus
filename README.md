@@ -48,6 +48,6 @@ ___
 
 ___
 
-<img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> 
+<img align="center" src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> 
 
 ___
