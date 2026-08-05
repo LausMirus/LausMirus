@@ -48,7 +48,7 @@ ___
 
 ___
 
-<p align="center>
+<p align="center" >
 <img " src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> 
 </p>
 
