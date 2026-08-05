@@ -1,5 +1,4 @@
 ✨ Just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** ✨.
-<img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> 
 
 <p align="left">
 
@@ -46,5 +45,9 @@ ___
 <img src="https://github-readme-stats-pi-liard-27.vercel.app/api/top-langs/?username=LausMirus&layout=compact&theme=github_dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF&hide_border=false" align="center"/>
 
 </p>
+
+___
+
+<img src="assets/my_fav_drawing.jpeg" width="500px" height="500px" align="center" /> 
 
 ___
