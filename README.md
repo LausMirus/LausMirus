@@ -5,7 +5,7 @@
   
   <img align="left" width="10%" src="./assets/knight.png">
 
-  ✨ just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** . exploring Linux and networking, still a beginner in coding, with every experiment revealing something new. ✨
+  ✨ just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** , exploring Linux and networking, still a beginner in coding, with every experiment revealing something new. ✨
   
 </p >
 
