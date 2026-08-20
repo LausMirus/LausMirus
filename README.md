@@ -5,7 +5,8 @@
   
   <img align="left" width="10%" src="./assets/knight.png">
 
-  ✨ just a ***[Graphite Artist](https://www.google.com/search?client=firefox-b-d&q=graphite+artist&sei=7096aduVBfSkvr0Pq57XSA)*** , exploring Linux and networking, still a beginner in coding, with every experiment revealing something new. ✨
+<h1>Greeting, I'm LausMirus.</h1>
+  ✨ Just a Graphite Artist, exploring Linux and networking, still a beginner in coding, with every experiment revealing something new. i am obsessed with Dark Academic and chess. Every day, I fight for my life trying to figure out what Linux is actually doing under the hood, and test my mental patience by playing Valorant with random brain-dead teammates.✨ 
   
 </p >
 
