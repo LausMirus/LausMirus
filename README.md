@@ -2,10 +2,11 @@
 <p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
+
   
   <img align="left" width="10%" src="./assets/knight.png">
 
-  <h1>Greeting, I'm LausMirus.</h1>
+  <h3>Greeting, I'm LausMirus.</h3>
   ✨ Just a Graphite Artist, exploring Linux and networking, still a beginner in coding, with every experiment revealing something new. i am obsessed with Dark Academic and chess. Every day, I fight for my life trying to figure out what Linux is actually doing under the hood, and test my mental patience by playing Valorant with random brain-dead teammates.✨ 
   
 </p >
