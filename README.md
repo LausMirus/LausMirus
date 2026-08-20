@@ -3,6 +3,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=LausMirus&label=Profile%20Views&color=000000&style=for-the-badge" />
   
+  ___
+  
   <img align="left" width="10%" src="./assets/knight.png">
 
 <h1>Greeting, I'm LausMirus.</h1>
