@@ -12,13 +12,13 @@
 </p >
 
 ___
-
+<!-- 
 <p align ="center">
   
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/nripan_official?igsh=OGRwenZwbWlkcTZ3)  [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github)](https://github.com/LausMirus)
 </p>
-
 ___
+-->
 <!-- =================================[stats]================================= -->
 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
