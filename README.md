@@ -34,7 +34,7 @@ ___
 
 ___
 
-<h3 align="center">Dev's Quote</h3>
+<h3 align="center">Quote</h3>
 
 <p align="center">
   <img src="./quote.svg" />
