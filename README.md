@@ -34,12 +34,12 @@ ___
 
 ___
 
-<h3 align="center">Quote</h3>
+
 
 <p align="center">
   <img src="./quote.svg" />
 </p>
-
+<h6 align="center">Quote by : Laus Mirus</h6>
 ___
 
 <!--
