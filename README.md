@@ -40,7 +40,6 @@ ___
   <img src="./quote.svg" />
 </p>
 <h6 align="center">Quote by : Laus Mirus</h6>
-___
 
 <!--
 
