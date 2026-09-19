@@ -39,7 +39,7 @@ ___
 <p align="center">
   <img src="./quote.svg" />
 </p>
-<h6 align="right">Quote by : Laus Mirus</h6>
+<h6 align="right">Quote by : LausMirus</h6>
 
 <!--
 
