@@ -24,16 +24,6 @@ ___
 <h4 align:"left">$ code.log </h4>
 
 <!--START_SECTION:waka-->
-```txt
-From: 2026-11-15 - To: 2026-11-15
-
-Total Time: 42 mins
-
-YAML         ████████░░░░░░░░░░░░  42.4%  17 mins
-Lua          ██████░░░░░░░░░░░░░░  31.8%  13 mins
-Python       ███░░░░░░░░░░░░░░░░░  14.0%  5 mins
-C            ██░░░░░░░░░░░░░░░░░░  11.8%  5 mins
-```
 <!--END_SECTION:waka-->
 
 ___
