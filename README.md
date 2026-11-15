@@ -24,15 +24,14 @@ ___
 <h4 align:"left">$ code.log </h4>
 
 <!--START_SECTION:waka-->
+## Coding Activity — All Time
 
-```txt
-From: 14 November 2026 - To: 14 November 2026
+**Total coding time:** 9 mins
 
-Total Time: 0 secs
-
-No activity tracked
-```
-
+| Language | Time |
+|---|---:|
+| C | 5 mins |
+| Lua | 4 mins |
 <!--END_SECTION:waka-->
 
 ___
