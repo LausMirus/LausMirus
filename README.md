@@ -21,109 +21,12 @@ ___
 ___
 
 
-<h4 align:"left">$ code.log </h4>
+<h4 align:"left"> $ code.log </h4>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 14 November 2026 - To: 15 November 2026
-
-Total Time: 55 mins
-
-Python   18 mins               ████████▓░░░░░░░░░░░░░░░░   34.09 %
-YAML     17 mins               ████████░░░░░░░░░░░░░░░░░   32.46 %
-Lua      13 mins               ██████░░░░░░░░░░░░░░░░░░░   24.37 %
-C        5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-```
-
 <!--END_SECTION:waka-->
 <!--START_SECTION:devmetrics-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 115.3 kB Used in GitHub's Storage 
- > 
-> 🏆 443 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                140 commits         ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-🌆 Daytime                183 commits         ████████░░░░░░░░░░░░░░░░░   30.76 % 
-🌃 Evening                226 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
-🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Tuesday                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Wednesday                127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Thursday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Sunday                   202 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   18 mins             █████████░░░░░░░░░░░░░░░░   34.09 % 
-YAML                     17 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
-Lua                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-C                        5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-
-🔥 Editors: 
-Neovim                   52 mins             ████████████████████████░   94.68 % 
-Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-
-🐱‍💻 Projects: 
-LausMirus                36 mins             █████████████████░░░░░░░░   66.55 % 
-hypr                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-
-💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    5 repos             ██████████████░░░░░░░░░░░   55.56 % 
-C                        2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Lua                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/LausMirus/LausMirus/main/assets/bar_graph.png)
-
-
- Last Updated on 15/11/2026 21:46:19 UTC
-<!--END_SECTION:devmetrics-->
-___
+<!--END_SECTION_SECTION:devmetrics-->
 
 <!-- =================================[stats]================================= -->
 <!-- 
