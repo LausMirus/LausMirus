@@ -182,9 +182,3 @@ print("-----------------------------------")
 print("Period:", START_DATE, "to", END_DATE)
 print("Total coding time:", format_time(total_seconds))
 
-print("\nLanguage statistics:")
-
-for name, seconds in sorted_languages:
-    print(f"{name}: {format_time(seconds)}")
-
-print("-----------------------------------")
