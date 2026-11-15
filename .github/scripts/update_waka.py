@@ -130,7 +130,7 @@ sorted_languages = sorted(
     key=lambda item: item[1],
     reverse=True
 )
-
+#/print("\nLanguage statistics:")
 #for name, seconds in sorted_languages:
 #    lines.append(
 #        f"| {name} | {format_time(seconds)} |"
