@@ -1,3 +1,4 @@
+
 name: Waka Readme
 
 on:
@@ -10,10 +11,24 @@ permissions:
 
 jobs:
   update-readme:
-    name: Update WakaTime Staus
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      # Original Athul action: language statistics
+      - name: Update language statistics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          LANG_COUNT: 10
+          BLOCKS: "░▒▓█"
+
+      # Anmol action: development environment statistics
+      - name: Update development metrics
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
@@ -21,9 +36,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE: "True"
           SECTION_NAME: "devmetrics"
-          SHOW_TITLE: true
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          LANG_COUNT: 10
-          BLOCKS: "░▒▓█"
+

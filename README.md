@@ -37,7 +37,8 @@ C        5 mins                ██▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+<!--START_SECTION:devmetrics-->
+<!--END_SECTION:devmetrics-->
 ___
 
 <!-- =================================[stats]================================= -->
