@@ -34,10 +34,6 @@ Lua          ██████░░░░░░░░░░░░░░  31.8%
 Python       ███░░░░░░░░░░░░░░░░░  14.0%  5 mins
 C            ██░░░░░░░░░░░░░░░░░░  11.8%  5 mins
 ```
-| YAML | 17 mins |
-| Lua | 13 mins |
-| Python | 5 mins |
-| C | 5 mins |
 <!--END_SECTION:waka-->
 
 ___
