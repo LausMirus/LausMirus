@@ -24,6 +24,18 @@ ___
 <h4 align:"left"> $ code.log </h4>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 November 2026 - To: 15 November 2026
+
+Total Time: 55 mins
+
+Python   18 mins               ████████▓░░░░░░░░░░░░░░░░   34.09 %
+YAML     17 mins               ████████░░░░░░░░░░░░░░░░░   32.46 %
+Lua      13 mins               ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+C        5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+```
+
 <!--END_SECTION:waka-->
 <!--START_SECTION:devmetrics-->
 <!--END_SECTION_SECTION:devmetrics-->
