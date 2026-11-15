@@ -21,7 +21,7 @@ ___
 ___
 
 
-<h4 align:"left">~/.LausMirus/coding.log</h4>
+<h4 align:"left">$ code.log </h4>
 
 <!--START_SECTION:waka-->
 
