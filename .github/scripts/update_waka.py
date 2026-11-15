@@ -84,14 +84,45 @@ for day in daily_summaries:
 
 
 # Generate README content
+
+
+# Generate WakaTime-style terminal output
+
+BAR_LENGTH = 20
+
+sorted_languages = sorted(
+    languages.items(),
+    key=lambda item: item[1],
+    reverse=True
+)
+
 lines = [
-    "## Coding Activity — All Time",
+    "```txt",
+    f"From: {START_DATE} - To: {END_DATE}",
     "",
-    f"**Total coding time:** {format_time(total_seconds)}",
+    f"Total Time: {format_time(total_seconds)}",
     "",
-    "| Language | Time |",
-    "|---|---:|",
 ]
+
+if total_seconds > 0:
+    for name, seconds in sorted_languages:
+        if seconds < 60:
+            continue
+        percentage = (seconds / total_seconds) * 100
+
+        filled = round((percentage / 100) * BAR_LENGTH)
+        bar = "█" * filled + "░" * (BAR_LENGTH - filled)
+
+        lines.append(
+            f"{name:<12} {bar} {percentage:5.1f}%  {format_time(seconds)}"
+        )
+else:
+    lines.append("No activity tracked")
+
+lines.append("```")
+
+content = "\n".join(lines)
+
 
 # Sort languages by coding time
 sorted_languages = sorted(
