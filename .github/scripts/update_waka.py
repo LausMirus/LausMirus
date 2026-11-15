@@ -131,12 +131,12 @@ sorted_languages = sorted(
     reverse=True
 )
 
-for name, seconds in sorted_languages:
-    lines.append(
-        f"| {name} | {format_time(seconds)} |"
-    )
+#for name, seconds in sorted_languages:
+#    lines.append(
+#        f"| {name} | {format_time(seconds)} |"
+#    )
 
-content = "\n".join(lines)
+#content = "\n".join(lines)
 
 
 # Read existing README
