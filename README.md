@@ -20,6 +20,14 @@ ___
 
 ___
 
+
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<--END_SECTION:waka-->
+
+___
+
 <!-- =================================[stats]================================= -->
 <!-- 
 [![LausMirus's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LausMirus&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
