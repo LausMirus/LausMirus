@@ -24,38 +24,18 @@ ___
 <h4 align:"left"> $ code.log </h4>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+```txt
+From: 14 November 2026 - To: 15 November 2026
 
-🔥 Editors: 
-Neovim                   52 mins             ████████████████████████░   94.68 % 
-Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Total Time: 55 mins
 
-💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Python   18 mins               ████████▓░░░░░░░░░░░░░░░░   34.09 %
+YAML     17 mins               ████████░░░░░░░░░░░░░░░░░   32.46 %
+Lua      13 mins               ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+C        5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Shell** 
-
-```text
-Shell                    5 repos             ██████████████░░░░░░░░░░░   55.56 % 
-C                        2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Lua                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-
- Last Updated on 15/11/2026 22:00:43 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:devmetrics-->
 <!--END_SECTION_SECTION:devmetrics-->
