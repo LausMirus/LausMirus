@@ -24,19 +24,38 @@ ___
 <h4 align:"left"> $ code.log </h4>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```txt
-From: 14 November 2026 - To: 17 November 2026
+```text
+🕑︎ Time Zone: Asia/Kolkata
 
-Total Time: 1 hr 47 mins
+🔥 Editors: 
+Neovim                   1 hr 44 mins        ████████████████████████░   97.27 % 
+Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
-YAML       54 mins               ████████████▓░░░░░░░░░░░░   50.27 %
-Python     18 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-Markdown   16 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-Lua        13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-C          5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+💻 Operating System: 
+Linux                    1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Shell** 
+
+```text
+Shell                    5 repos             ██████████████░░░░░░░░░░░   55.56 % 
+C                        2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Lua                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
+ Last Updated on 18/11/2026 06:13:45 UTC
 <!--END_SECTION:waka-->
 <!--START_SECTION:devmetrics-->
 <!--END_SECTION_SECTION:devmetrics-->
